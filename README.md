@@ -1,13 +1,13 @@
 # Food-Connect
 <h1>Salesforce project</h1>
-🚀 <h2>Salesforce Food Distribution Management System</h2>
+<h2>🚀Salesforce Food Distribution Management System</h2>
 A streamlined solution for managing food distribution to those in need, built using Salesforce’s powerful features like custom objects, flows, triggers, and real-time reporting.
 <br>
 
-📋 <h2>Project Summary</h2>
+<h2>📋Project Summary</h2>
 Our project is designed to efficiently manage venues, drop-off points, volunteer coordination, and task execution. We automate workflows to save time, improve collaboration, and ensure accurate data tracking, enabling quick and effective food distribution.
 
-🛠️ <h2>Key Features</h2>
+<h2>🛠️Key Features</h2>
 1. Custom Objects
 Venue: Track collection/distribution locations.
 Drop-Off Points: Monitor delivery points.
